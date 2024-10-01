@@ -1,4 +1,4 @@
-## Password Manager Setup
+## Password Manager 
 
 To enable the Google Drive integration in this project, you need to generate your own `credentials.json` file. Follow these steps:
 
